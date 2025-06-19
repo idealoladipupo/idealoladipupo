@@ -32,7 +32,8 @@ Explored fairness in HR analytics with gender-focused bias metrics and Random Fo
 
 - Microsoft Certified: Azure Data Fundamentals  
 - Microsoft Certified: AI Fundamentals  
-- Microsoft Certified Educator (MCE)  
+- Microsoft Certified Educator (MCE)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals 
 - Associate of Accounting Technician (AATWA)
 
 ---
