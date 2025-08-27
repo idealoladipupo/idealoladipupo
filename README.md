@@ -24,7 +24,7 @@ Explored fairness in HR analytics with gender-focused bias metrics and Random Fo
 
 ## 🛠 Tech Stack
 
-`Python` | `Power BI` | `R` | `Scikit-Learn` | `Keras` | `NLTK` | `Excel` | `Tableau` | `SHAP` | `Azure` | `Google Colab`
+`Python` | `Power BI` | `R` | `Scikit-Learn` | `Keras` | `NLTK` | `Excel` | `Tableau` | `Explainable AI: SHAP, Lime` | `Azure` | `Google Colab`
 
 ---
 
